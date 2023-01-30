@@ -12,7 +12,7 @@ namespace easyS
         {
             Console.WriteLine( "Сложение");
             Console.WriteLine("Вычитание");
-            Console.WriteLine( "Умнож");
+            Console.WriteLine( "Умнож2");
 
         }
     }

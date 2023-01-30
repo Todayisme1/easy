@@ -11,7 +11,7 @@ namespace easyS
         static void Main(string[] args)
         {
             Console.WriteLine( "Сложение");
-            Console.WriteLine("Вычитание");
+            Console.WriteLine("Вычитание2");
             Console.WriteLine( "Умнож2");
 
         }
